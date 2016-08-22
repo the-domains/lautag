@@ -1,0 +1,14 @@
+layout_spectrum: 0.37698961165733635
+typography_spectrum: 0.15388424065895379
+color:
+  brandStrength: 0.3731320300139487
+  lightness: 0.45306611130945385
+  saturation: 0.8459439929574728
+  rhythmicContrast: 0.2787179443985224
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: laut.ag
