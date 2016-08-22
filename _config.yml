@@ -1,3 +1,4 @@
+layout_spectrum: 0.37698961165733635
 typography_spectrum: 0.15388424065895379
 color:
   brandStrength: 0.3731320300139487
@@ -10,6 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.37698961165733635
 name: laut.ag
-title: Musiknerds seit 1996
